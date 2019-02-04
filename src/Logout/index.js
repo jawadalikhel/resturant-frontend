@@ -4,7 +4,7 @@ class Logout extends Component{
   render(){
     return(
       <div>
-        logout
+        <input type="Submit" value="Logout" />
       </div>
     )
   }
